@@ -1,4 +1,3 @@
 git init
 
-first change
-second change
+first commit

@@ -4,4 +4,8 @@ first commit
 commit new tree
 test hard reset
 
-reset
+test hard reset
+
+test new commit
+
+work master

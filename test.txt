@@ -5,3 +5,5 @@ first commit
 test hard reset
 
 test new commit
+
+work master

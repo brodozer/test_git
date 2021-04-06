@@ -1,3 +1,5 @@
 git init
 
 first commit
+
+test hard reset

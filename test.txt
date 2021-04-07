@@ -14,3 +14,8 @@ work master
 .color {
 	color: red;
 }
+
+.font {
+	font-size: 65px;
+	font-family: Helvetica;
+}

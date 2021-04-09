@@ -19,3 +19,7 @@ work master
 	font-size: 65px;
 	font-family: Helvetica;
 }
+
+.container {
+	max-width: 780px;
+}

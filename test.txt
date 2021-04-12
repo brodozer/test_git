@@ -24,4 +24,4 @@ work master
 	max-width: 780px;
 }
 
-добавил что-то новое
+new brunch task

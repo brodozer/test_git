@@ -23,3 +23,5 @@ work master
 .container {
 	max-width: 780px;
 }
+
+добавил что-то новое
